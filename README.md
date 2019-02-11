@@ -1,4 +1,4 @@
-# Continuous_FRC_SMLM
+# Continuous FRC for SMLM
 
 ## Description
 
