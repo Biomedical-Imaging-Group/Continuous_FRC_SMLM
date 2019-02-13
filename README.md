@@ -9,3 +9,5 @@ Proc. ISBI, 2019.<br/>
 Than-An Pham, Emmanuel Soubies, Daniel Sage, and Michael Unser.
 
 ## Repository content
+* main script **Example_Script.m** 
+* function **FRCcont.m** which computes the continuous FRC
